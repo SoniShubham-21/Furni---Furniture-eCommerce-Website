@@ -358,6 +358,49 @@ section{
     font-size: 26px;
 }
 
+#readmore{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    background-color:#fffcfc;
+}
+.read_more_product{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-right: 250px;
+
+}
+.back{
+    height:170px;
+    width: 200px;
+    border-radius: 10px;
+    background-color:#d4ebe9;
+    margin-top: 15px;
+}
+.back img{
+    height: 200px;
+    width: 200px;
+    margin-top: -15px;
+}
+.data5{
+    transform: translate(220px,-180px);
+}
+.data5 h4{
+    font-size: 20px;
+}
+.data5 p{
+    font-size: 16px;
+    opacity: 0.8;
+}
+.data5 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
 
 
 
