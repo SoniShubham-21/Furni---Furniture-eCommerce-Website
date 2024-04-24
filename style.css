@@ -220,7 +220,8 @@ section{
     height: auto;
     width: 100%;
     transform: translateY(70px);
-    transition: 0.3s ease-in;
+    transition: 0.5s ease;
+    
 }
 .product_name{
     color: black;
@@ -260,7 +261,8 @@ section{
     margin-top: -20px;
 }
 .data_icons1{
-    width: 50%;
+    width: 250px;
+    margin-right:35px;
 }
 .data_icons1 i{
     font-size: 28px;
@@ -284,6 +286,76 @@ section{
     height: 240px;
     width: 280px;
     transform: translate(-460px,4px);
+}
+
+#we_help_you{
+    height: 800px;
+    width: 100%;
+}
+#container5{
+    height: 800px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+#we_help_you_img{
+    height: 100%;
+    width: 840px;
+    display: flex;
+}
+#whyi1{
+    height: 600px;
+    width: 500px;
+    margin-top: 90px;
+    margin-left: 60px;
+    transform: translateX(20px);
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+}
+#whyi2{
+    height: 230px;
+    width: 230px;
+    transform: translate(30px,90px);
+    border-radius: 20px;
+}
+#whyi3{
+    height: 400px;
+    width: 350px;
+    transform: translate(-300px,350px);
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+}
+#whyub{
+    height: 240px;
+    width: 280px;
+    position:absolute;
+    z-index: 0;
+}
+#we_help_you_data{
+    height: 650px;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    transform: translateY(90px);
+    padding-left: 40px;
+}
+#we_help_you_data h3{
+    font-size: 36px;
+    width: 100%;
+    margin-bottom: -7px;
+}
+#we_help_you_data p{
+    font-size: 20px;
+    width: 100%;
+    margin-top: -20px;
+}
+.data_icons2{
+    width: 50%;
+}
+.data_icons2 li{
+    font-size: 26px;
 }
 
 
