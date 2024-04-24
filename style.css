@@ -56,8 +56,7 @@ header{
     background-color: #f9bf29;
     transform: scaleX(0);
     transition: transform 0.3s ease;
-    transform-origin: right;
-    
+       transform-origin: right;
 }
 #header_navbar a:hover::after{
     transform-origin: left;
@@ -162,14 +161,15 @@ main{
 section{
     height: 600px;
     width: 100%;
-    background-color: bisque;
+    background-color: white;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 #container3{
     position: relative;
     height: 600px;
     width: 95%;
-    background-color: #3B5D50;
+    background-color: white;
     display: flex;
     margin: auto;
 }
@@ -229,6 +229,63 @@ section{
     text-align: center;
     margin-top: 110px;
 }
+
+#why_choose_us{
+    height: 800px;
+    width: 100%;
+    background-color:#fffcfc;
+}
+#container4{
+    height: 800px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+#why_choose_us_data{
+    height: 650px;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    transform: translateY(90px);
+    padding-left: 40px;
+}
+#why_choose_us_data h3{
+    font-size: 36px;
+    width: 100%;
+    margin-bottom: -7px;
+}
+#why_choose_us_data p{
+    font-size: 20px;
+    width: 100%;
+    margin-top: -20px;
+}
+.data_icons1{
+    width: 50%;
+}
+.data_icons1 i{
+    font-size: 28px;
+}
+.data_icons1 h5{
+    margin-top: 10px;
+    font-size: 24px;
+}
+#why_choose_us_img{
+    height: 100%;
+    width: 840px;
+    display: flex;
+}
+#wcui{
+    height: 650px;
+    transform: translate(200px,90px);
+    position: relative;
+    z-index: 1;
+}
+#wcuib{
+    height: 240px;
+    width: 280px;
+    transform: translate(-460px,4px);
+}
+
 
 
 
