@@ -46,4 +46,23 @@ Enhance website security and performance.
 
 We welcome contributions to this project! If you'd like to get involved, feel free to:
 Fork the repository and submit pull requests with your improvements.
-Open issues to report bugs or suggest features.
+Open issues to report bugs or suggest features. 
+
+## Screenshots:
+
+![2 1](https://github.com/SoniShubham-21/Project-2-/assets/149899320/5731c0ee-29e0-4e3a-a77c-2b7d990813eb)
+![2 2](https://github.com/SoniShubham-21/Project-2-/assets/149899320/61f8379e-2fab-459e-8fc1-cfe58f8d8da2)
+![2 3](https://github.com/SoniShubham-21/Project-2-/assets/149899320/9172c081-10a3-4f79-9404-be7abffa9192)
+![2 4](https://github.com/SoniShubham-21/Project-2-/assets/149899320/c2a00cda-5eed-42b4-9f46-ccca4d771022)
+![2 5](https://github.com/SoniShubham-21/Project-2-/assets/149899320/2f8b8e1b-eef3-46ea-a90c-4e30b4313b7d)
+
+## Video:
+
+https://github.com/SoniShubham-21/Project-2-/assets/149899320/a3f1a402-7f89-49ed-8632-286a59d5ca29
+
+
+
+
+
+
+
